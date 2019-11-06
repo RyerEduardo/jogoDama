@@ -1,0 +1,64 @@
+td{
+	text-align: center;
+	border-radius: 5px;
+	border: solid 1px;
+	border-color: black;
+	width: 55px;
+	height: 55px;
+}
+h1{
+	text-align: center;
+	color: #DCDCDC;
+	font-family: Purisa;
+	font-size: 80px; 
+	padding: 0px;
+	margin: 0px;
+}
+h2{
+	color: white;
+}
+h3{
+	color: #FFA500;
+}
+nav{
+	font-size: 20px;
+	color: white;
+	display: flex;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 30px;
+}
+#nav1, #nav3{
+	width: 90%;
+}
+#nav2{
+	width: 110%;
+}
+#novoJogo, #reStart, #reset{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+table{
+	border: solid 10px;
+	border-color: #808080;
+	border-radius: 5px;
+	border-collapse: 0px;
+}
+
+#campo{
+	display: flex;
+	text-align: center;
+	margin-bottom: 50px;
+}
+#jogadores, #tabuleiro, #placar{
+	width: 100%;
+}
+
+
+body{
+	background-image: url(wallpaper.jpg);
+}
+p{
+	padding: 0px;
+	margin: 0px;
+}
